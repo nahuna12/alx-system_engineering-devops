@@ -1,4 +1,5 @@
 #!/bin/bash
+ls
 0-current_working_directory
 100-lets_move
 101-clean_emacs
